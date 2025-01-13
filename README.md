@@ -11,6 +11,9 @@ first GenAICode. Cs interface DeepSeekApiKey fill out their own key, the key to 
 
 首先GenAICode.cs界面的DeepSeekApiKey处填写自己的key,key获取地址为:https://platform.deepseek.com/api_keys
 
+F6 code parsing needs to request api return may be slow please wait
+
+F6代码解析需要请求api返回可能会慢请耐心等待
 # Usage:
 
 Write code:
@@ -22,6 +25,8 @@ Shortcut key F2, make a request, copy the code to be parsed to the clipboard, no
 快捷键F2,提出要求,然后把光标放置在想生成代码的地方按F4,会在光标位置写代码.
 解析代码:
 快捷键F2,提出要求,复制要解析的代码到剪切板,不要太多行,10行以内,点击快捷键F6,稍等几秒钟会弹出解析对话框
+
+
 
 
 
